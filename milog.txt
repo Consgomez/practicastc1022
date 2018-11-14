@@ -1,0 +1,131 @@
+commit bdd90a88421dc780c1f710b4f3763d3207287a50
+Merge: 6fb7168 15ab222
+Author: Consgomez <a01026717@itesm.mx>
+Date:   Wed Nov 7 11:30:49 2018 -0600
+
+    resolví los conflictos
+
+commit 6fb7168db488456d783be7efaf09c093ba6b8a4c
+Author: Consgomez <a01026717@itesm.mx>
+Date:   Wed Nov 7 11:26:08 2018 -0600
+
+    actualización local
+
+commit 15ab22219ae36196fcf8f83bdfeb3278ac3bc7dc
+Author: Consgomez <42215649+Consgomez@users.noreply.github.com>
+Date:   Wed Nov 7 11:25:04 2018 -0600
+
+    Update tarea10.txt
+    
+    Modificiacion remota de tarea 10
+
+commit d79306e83f542f844f24f300523783421ad4a185
+Merge: 2ca1a14 c09b72e
+Author: Consgomez <a01026717@itesm.mx>
+Date:   Wed Nov 7 11:14:06 2018 -0600
+
+    Merge branch 'master' of https://github.com/Consgomez/practicastc1022
+    
+    Este merge es para combinar tarea10 local con tarea11 remota
+
+commit c09b72e63260d6cc118d5fe918b73f5ece2ba7f2
+Author: Consgomez <42215649+Consgomez@users.noreply.github.com>
+Date:   Wed Nov 7 11:13:11 2018 -0600
+
+    Create tarea11.txt
+    
+    Subí mi tarea en el repositorio remoto
+
+commit 2ca1a14fef5235c7bbcbebafa3307c805e0c6a1f
+Author: Consgomez <a01026717@itesm.mx>
+Date:   Wed Nov 7 11:10:44 2018 -0600
+
+    tarea local
+
+commit c3582b7fe8c83e0228826983a8cc2f11b9a329ce
+Author: Consgomez <42215649+Consgomez@users.noreply.github.com>
+Date:   Thu Oct 25 11:51:27 2018 -0500
+
+    Add files via upload
+
+commit 442c063134a7598453fe88d2a4568ec768b72215
+Author: Consgomez <42215649+Consgomez@users.noreply.github.com>
+Date:   Wed Oct 24 12:37:35 2018 -0500
+
+    Add files via upload
+    
+    Programa año bisiesto
+
+commit bf6e20d6016c2f9e2ba585a8b34e2d6164b1a84a
+Author: Consgomez <a01026717@itesm.mx>
+Date:   Wed Oct 24 11:59:06 2018 -0500
+
+    tarea 1 cifrada
+
+commit 111530597e1af56887a8e129cc01dee6739041c7
+Author: Consgomez <42215649+Consgomez@users.noreply.github.com>
+Date:   Wed Oct 24 11:55:49 2018 -0500
+
+    Add files via upload
+    
+    Tarea platica drink iq
+
+commit d82b653ffbfbe8dbf362edb4aa4f1151ac49d578
+Author: Consgomez <42215649+Consgomez@users.noreply.github.com>
+Date:   Wed Oct 24 11:54:46 2018 -0500
+
+    Delete T1.1.Platica Drink IQ.docx
+    
+    borrar por nombre
+
+commit 42e7c4613b75e9b1bdc7f4cc84e38b6a4edf8e71
+Author: Consgomez <42215649+Consgomez@users.noreply.github.com>
+Date:   Wed Oct 24 11:50:36 2018 -0500
+
+    Add files via upload
+    
+    Tarea platica Drink IQ
+
+commit f15240eb9b693c59878024b1398d3490698c2fb1
+Author: Consgomez <42215649+Consgomez@users.noreply.github.com>
+Date:   Wed Oct 24 11:49:38 2018 -0500
+
+    Delete Constanza Gómez Sánchez - T1.1.plática Drink IQ.docx
+    
+    archivo eliminado por nombre
+
+commit 719f2e72c14e71e7062cde4ccd59ffa54c3c9efd
+Author: Consgomez <42215649+Consgomez@users.noreply.github.com>
+Date:   Wed Oct 24 11:37:47 2018 -0500
+
+    Add files via upload
+    
+    Clave publica Ariel
+
+commit 133cff31fc5fa18844e8d4ecca08e2f80202f2f4
+Author: Consgomez <42215649+Consgomez@users.noreply.github.com>
+Date:   Wed Oct 24 11:26:34 2018 -0500
+
+    Add files via upload
+    
+    Tarea plática Drink IQ
+
+commit 8aee14d8f11a5219b51f2e8cd29eefcdc7bd04d8
+Author: Consgomez <42215649+Consgomez@users.noreply.github.com>
+Date:   Wed Oct 24 11:12:26 2018 -0500
+
+    Delete Criptado.gpg
+    
+    Se elimino la llave privada
+
+commit 74cbc23232850e2d0bcc0305702f349972915d31
+Author: Consgomez <a01026717@itesm.mx>
+Date:   Wed Oct 24 11:04:11 2018 -0500
+
+    exportar llaves públicas y privadas
+
+commit 1d39a4de5e088cf46ff7d881bc5f41af01564d27
+Author: Consgomez <a01026717@itesm.mx>
+Date:   Wed Oct 10 12:22:47 2018 -0500
+
+    primer commit
